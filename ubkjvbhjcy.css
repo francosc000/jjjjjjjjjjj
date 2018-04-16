@@ -1,8 +1,11 @@
-hi
-color:red;
+body{
+  background-color: orange;
+}
+
+hi{
+  color: red;
 }
 
 p{
-
-color:blue;
+  color:blue:
 }
